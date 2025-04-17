@@ -14,9 +14,6 @@ I’ve created a simple and smart Attendance System using facial recognition. Th
 
 ## How It Works
 
-### Go to the Website  
-(Link will be provided here)
-
 ### Start Attendance  
 - Click the **Start Camera** button.  
 - The system will scan your face.
@@ -42,7 +39,7 @@ I’ve created a simple and smart Attendance System using facial recognition. Th
 - Python  
 - OpenCV  
 - Flask  
-- Firebase  
+- local storage
 - HTML/CSS/JavaScript (Frontend)
 
 ## Notes
